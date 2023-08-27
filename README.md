@@ -14,6 +14,7 @@ Sorularınız için bana [Durmusozgul66@gmail.com] adresinden ulaşabilirsiniz.
 
 
 <h2> Ekran Görüntüsü </h2>
+
 ![](poke.gif)
 
 
